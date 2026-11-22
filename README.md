@@ -3,27 +3,18 @@
 
 # SomebodyXPS
 
-### Agentic Engineer · Independent Developer
+**Agentic Engineer**
 
-Building software, AI systems, and connected digital ecosystems.
+Building software, AI systems & digital ecosystems.
 
-[Website](https://somebodyxps.space/) · [GitHub](https://github.com/SomebodyXPS) · [MoxRed](https://github.com/SomebodyXPS/MoxRed)
+[![Website](https://img.shields.io/badge/Website-somebodyxps.space-18181b?style=flat-square&logo=googlechrome&logoColor=white)](https://somebodyxps.space/)
+[![GitHub](https://img.shields.io/badge/GitHub-SomebodyXPS-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/SomebodyXPS)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=550&lines=Building+intelligent+software.;Designing+connected+ecosystems.;Engineering+ideas+into+reality." alt="Typing SVG" />
+<!-- Add verified social links here -->
 
-
-
-<img src="https://komarev.com/ghpvc/?username=SomebodyXPS&style=flat-square&color=grey&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-## Technology
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,php,html,css,react,linux,docker,git,github&perline=7" alt="Technology stack" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181b?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![X](https://img.shields.io/badge/X-Follow-18181b?style=flat-square&logo=x&logoColor=white)](YOUR_X_URL)
+[![Discord](https://img.shields.io/badge/Discord-Connect-18181b?style=flat-square&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
 
 </div>
 
@@ -31,11 +22,9 @@ Building software, AI systems, and connected digital ecosystems.
 
 <div align="center">
 
-## Featured Project
+### Technologies
 
-<a href="https://github.com/SomebodyXPS/MoxRed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SomebodyXPS&repo=MoxRed&theme=transparent&hide_border=true" alt="MoxRed repository" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,php,react,html,css,linux,docker,git&perline=6" />
 
 </div>
 
@@ -43,13 +32,11 @@ Building software, AI systems, and connected digital ecosystems.
 
 <div align="center">
 
-## GitHub Statistics
+### Selected Work
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SomebodyXPS&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+[**MoxRed**](https://github.com/SomebodyXPS/MoxRed) · AI-assisted Minecraft server administration
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomebodyXPS&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=SomebodyXPS&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+[More projects →](https://github.com/SomebodyXPS?tab=repositories)
 
 </div>
 
@@ -57,43 +44,19 @@ Building software, AI systems, and connected digital ecosystems.
 
 <div align="center">
 
-## Contribution Activity
+### GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomebodyXPS&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SomebodyXPS&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img src="https://raw.githubusercontent.com/SomebodyXPS/SomebodyXPS/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomebodyXPS&theme=github-compact&hide_border=true&area=true" />
+
+<img src="https://raw.githubusercontent.com/SomebodyXPS/SomebodyXPS/output/github-contribution-grid-snake.svg" alt="Contribution animation" />
 
 </div>
 
 ---
 
-<details>
-<summary><b>Current Projects & Interests</b></summary>
-
-- **AI & Agentic Systems** — AI assistants, tool integration, and automation.
-- **Developer Infrastructure** — Hosting, backend systems, and self-hosted services.
-- **Communication Platforms** — Privacy-focused collaboration and communication.
-- **Minecraft Development** — AI-assisted server administration and plugin ecosystems.
-
-</details>
-
-<details>
-<summary><b>Engineering Interests</b></summary>
-
-- Software architecture and scalable systems
-- Artificial intelligence and automation
-- Backend engineering and APIs
-- Linux, infrastructure, and DevOps
-- Open-source technologies
-- Security and privacy engineering
-
-</details>
-
----
-
 <div align="center">
-
-**Ideas → Engineering → Systems**
 
 [Website](https://somebodyxps.space/) · [GitHub](https://github.com/SomebodyXPS)
 
