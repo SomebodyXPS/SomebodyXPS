@@ -11,6 +11,8 @@ Building software, AI systems, and connected digital ecosystems.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=550&lines=Building+intelligent+software.;Designing+connected+ecosystems.;Engineering+ideas+into+reality." alt="Typing SVG" />
 
+
+
 <img src="https://komarev.com/ghpvc/?username=SomebodyXPS&style=flat-square&color=grey&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
