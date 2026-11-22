@@ -1,15 +1,17 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+SomebodyXPS.;Agentic+Engineer.;Independent+Developer.;Building+systems%2C+not+just+applications." />
+
 # SomebodyXPS
 
-**Agentic Engineer · Independent Builder**
+**Agentic Engineer · Software Developer · Ecosystem Builder**
 
-Building intelligent systems, software ecosystems, and tools.
+I design, build, and experiment with software systems, intelligent agents, infrastructure, and interconnected digital products.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Building+something+meaningful.;Thinking+in+systems.;Engineering+the+future.;Always+exploring+what's+possible." />
+[Portfolio](https://somebodyxps.space/) · [GitHub](https://github.com/SomebodyXPS) · [Repositories](https://github.com/SomebodyXPS?tab=repositories)
 
-[Website](https://somebodyxps.space) · [GitHub](https://github.com/SomebodyXPS)
+<img src="https://komarev.com/ghpvc/?username=SomebodyXPS&style=flat-square&color=8b949e&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -17,33 +19,103 @@ Building intelligent systems, software ecosystems, and tools.
 
 ### About
 
-I'm an independent developer interested in building more than just applications.
+I enjoy working at the intersection of software engineering, AI, infrastructure, and product architecture.
 
-My focus is on AI, software architecture, automation, infrastructure, and interconnected digital ecosystems.
+Rather than focusing on isolated applications, I enjoy designing complete systems — from architecture and backend infrastructure to interfaces, automation, and integrations.
 
-### Tech
+- Building intelligent AI-powered systems.
+- Designing modular and scalable software architectures.
+- Exploring automation, APIs, and developer tools.
+- Working with Linux, servers, and infrastructure.
+- Turning ambitious concepts into practical products.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nodejs,ts,js,python,java,php,postgres,mysql,redis,nginx,git,github&theme=dark" />
+### What I'm building
+
+| Project | Description |
+|:--|:--|
+| **AsisXPS** | A modular personal AI agent and automation ecosystem. |
+| **MoxRed** | AI-assisted Minecraft server administration. |
+| **Orea Meet** | A minimal, privacy-focused video meeting platform. |
+| **XPS** | A broader digital ecosystem and technology venture. |
+| **YouthNova** | Digital infrastructure and communication services. |
+| **xHosting** | A hosting platform and infrastructure service. |
+
+Explore more on my [portfolio](https://somebodyxps.space/).
+
+### Featured work
+
+<a href="https://github.com/SomebodyXPS/MoxRed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SomebodyXPS&repo=MoxRed&theme=transparent&hide_border=true" />
+</a>
+
+### Technologies & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,bash" />
 </p>
 
-### Activity
+**Backend & Databases**
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis" />
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SomebodyXPS&theme=github-compact&hide_border=true&area=true&bg_color=00000000" />
+**Infrastructure & Development**
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SomebodyXPS&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomebodyXPS&layout=compact&hide_border=true&theme=transparent" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare,git,github,vscode" />
+</p>
 
-</div>
+**Areas of exploration**
+
+`Agentic AI` · `System Architecture` · `MCP` · `Automation` · `DevOps` · `APIs` · `Cloud Infrastructure`
 
 ---
 
+### GitHub Overview
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SomebodyXPS&style=flat&color=grey&label=VISITORS" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SomebodyXPS&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomebodyXPS&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
-<samp>Less noise. More engineering.</samp>
+<img width="65%" src="https://streak-stats.demolab.com?user=SomebodyXPS&theme=transparent&hide_border=true" />
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomebodyXPS&theme=github-compact&hide_border=true&area=true&bg_color=00000000" width="100%" />
+
+</div>
+
+### Beyond the Code
+
+```text
+Think in systems.
+Build with purpose.
+Automate intelligently.
+Design for scale.
+Keep it simple.
+```
+
+### Find me
+
+<div align="center">
+
+<a href="https://somebodyxps.space/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181818?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/SomebodyXPS">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181818?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+
+<sub>Engineering the bigger picture.</sub>
 
 </div>
