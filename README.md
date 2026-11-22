@@ -5,26 +5,19 @@
 
 **Agentic Engineer**
 
-Building software, AI systems & digital ecosystems.
+Building AI systems, full-stack platforms, and developer infrastructure.
 
-[![Website](https://img.shields.io/badge/Website-somebodyxps.space-18181b?style=flat-square&logo=googlechrome&logoColor=white)](https://somebodyxps.space/)
-[![GitHub](https://img.shields.io/badge/GitHub-SomebodyXPS-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/SomebodyXPS)
-
-<!-- Add verified social links here -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181b?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![X](https://img.shields.io/badge/X-Follow-18181b?style=flat-square&logo=x&logoColor=white)](YOUR_X_URL)
-[![Discord](https://img.shields.io/badge/Discord-Connect-18181b?style=flat-square&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
-
-</div>
-
----
-
-<div align="center">
-
-### Technologies
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,php,react,html,css,linux,docker,git&perline=6" />
+<p>
+  <a href="https://somebodyxps.space/">
+    <img src="https://img.shields.io/badge/Portfolio-18181b?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/SomebodyXPS">
+    <img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/SomebodyXPS?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-18181b?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
 
 </div>
 
@@ -32,25 +25,13 @@ Building software, AI systems & digital ecosystems.
 
 <div align="center">
 
-### Selected Work
+### Focus
 
-[**MoxRed**](https://github.com/SomebodyXPS/MoxRed) · AI-assisted Minecraft server administration
+Agentic AI & Automation · Full-Stack Engineering · Real-Time Systems · Infrastructure
 
-[More projects →](https://github.com/SomebodyXPS?tab=repositories)
+### Technology
 
-</div>
-
----
-
-<div align="center">
-
-### GitHub
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SomebodyXPS&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomebodyXPS&theme=github-compact&hide_border=true&area=true" />
-
-<img src="https://raw.githubusercontent.com/SomebodyXPS/SomebodyXPS/output/github-contribution-grid-snake.svg" alt="Contribution animation" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,nodejs,react,nextjs,postgres,redis,docker,linux,git&perline=6" alt="Technology stack" />
 
 </div>
 
@@ -58,6 +39,30 @@ Building software, AI systems & digital ecosystems.
 
 <div align="center">
 
-[Website](https://somebodyxps.space/) · [GitHub](https://github.com/SomebodyXPS)
+### Featured Work
+
+**[MoxRed](https://github.com/SomebodyXPS/MoxRed)**
+
+AI-powered server staff operator for Minecraft, enabling natural-language server administration through Discord.
+
+[Explore all projects →](https://github.com/SomebodyXPS?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### Contributions
+
+<img src="https://raw.githubusercontent.com/SomebodyXPS/SomebodyXPS/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+[Portfolio](https://somebodyxps.space/) · [GitHub](https://github.com/SomebodyXPS)
 
 </div>
